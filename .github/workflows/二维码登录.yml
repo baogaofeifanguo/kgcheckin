@@ -10,7 +10,7 @@ on:
         description: "是否追加新账号？（不删除已存在账号信息）"
         required: true
         type: choice
-        default: "否"
+        default: 是"
         options:
           - 是
           - 否
